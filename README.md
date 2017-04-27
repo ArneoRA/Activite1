@@ -1,2 +1,2 @@
-# Activite1
-Dossier de l'activité 1 du Cours "Gérer son code avec Git et GitHub"
+# ACTIVITE 1
+Ceci est le fichier README de l'activité 1 du cours "Gérer votre code avec Git et GitHub"
